@@ -144,7 +144,7 @@ dist/
 
 ## 🧑‍💻 Author
 
-Made with 💙 by **Lucky Joshi**
+Made by **Lucky Joshi**
 
 ---
 
